@@ -14,7 +14,7 @@ I'm a Software Engineer, Growth Engineer, and a Writer. My current stacks are Fr
 - 🤝 I’m open to collaborations with like-minded people like you to build amazing projects
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Frontend Engineer, Solidity Developer, or UI Engineer (Intern or Junior level).
-- 📫 You contact me by emailing pecullozie@gmail.com or send a DM on [Twitter](https://twitter.com/peculiarichard)
+- 📫 You can contact me by emailing pecullozie@gmail.com or send a DM on [Twitter](https://twitter.com/peculiarichard)
 
 ---
 ### Skills
