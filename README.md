@@ -8,8 +8,7 @@ I'm a Software Engineer and a Writer. My current stacks are Frontend Engineering
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 🧠 I'm currently mastering Next JS and Web3 JS
-- 💡 Fun fact: I'm an avid reader, I love to travel, and soooo good with Scrabble and Sudoku
+- 🧠 I'm currently mastering Next JS and Web3 JS 
 - 🌱 I teach at [SideHustle Internship](https://lms.terrahq.co/) and [HerTechTrail Academy](https://www.hertechtrail.org/)
 - 🤝 I’m open to collaborations with like-minded people like you to build amazing projects
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
