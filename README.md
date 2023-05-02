@@ -3,7 +3,7 @@ Welcome, i'm sure you'd stick around.
 
 [![Linkedin Badge](https://img.shields.io/badge/-peculiarrichard-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peculiar-richard-b82062b1/)](https://www.linkedin.com/in/peculiar-richard-b82062b1/) [![Twitter Badge](https://img.shields.io/badge/-@peculiarichard-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/peculiarichard)](https://twitter.com/peculiarichard)
 
-I'm a Software Engineer and a Writer. My current stacks are Frontend Engineering and Smart Contract Development with Solidity. I'm passionate about sharing knowledge, web 3, user experience, startup growth, and others. I enjoy exploring the world of Javascript and Solidity to create cool applications. Outside the world of Software Engineering, I tell stories on my [Instagram page](https://www.instagram.com/peculiarichard/) with a little touch of cruise...    
+I'm a Software Engineer and a Writer. My current stacks are Frontend Engineering and Smart Contract Development with Solidity. I'm passionate about sharing knowledge, web 3, user experience, startup growth, and others. I enjoy exploring the world of Javascript and Solidity to create cool applications.
 
 **Here's a quick summary about me**:
 
