@@ -9,7 +9,6 @@ I'm a Software Engineer and a Writer. My current stacks are Frontend Engineering
 
 - 😊 Pronouns: She/her
 - 🧠 I'm currently mastering TypeScript and Ethers JS 
-- 🌱 I teach at [SideHustle Internship](https://lms.terrahq.co/) and [HerTechTrail Academy](https://www.hertechtrail.org/)
 - 🤝 I’m open to collaborations with like-minded people like you to build amazing projects
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Frontend Engineer, Solidity Developer, or UI Engineer (Intern or Junior level).
