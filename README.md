@@ -36,5 +36,4 @@ I'm a Software Engineer and a Writer. My current stacks are Frontend Engineering
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" />
 </p>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=peculiarrichard&show_icons=true&include_all_commits=true&hide_border=true" alt="Peculiar's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peculiarrichard&langs_count=8&layout=compact&hide_border=true" alt="Peculiar's GitHub stats" /> |
-| ------------- | ------------- |
+
