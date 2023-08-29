@@ -1,14 +1,12 @@
-# Hello there👋, finally! you found my Github profile
-Welcome, i'm sure you'd stick around.
+# Hello there👋, welcome to my GitHub profile
+Welcome, I'm sure you'd stick around.
 
 [![Linkedin Badge](https://img.shields.io/badge/-peculiarrichard-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peculiar-richard-b82062b1/)](https://www.linkedin.com/in/peculiar-richard-b82062b1/) [![Twitter Badge](https://img.shields.io/badge/-@peculiarichard-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/peculiarichard)](https://twitter.com/peculiarichard)
 
-I'm a Software Engineer and a Writer. My current stacks are Frontend Engineering and Smart Contract Development with Solidity. I'm passionate about sharing knowledge, web 3, user experience, startup growth, and others. I enjoy exploring the world of Javascript and Solidity to create cool applications.
+I'm a Frontend Engineer, Solidity Developer, and a Technical Writer. I'm passionate about building amazing web and decentralized applications and sharing knowledge. 
 
 **Here's a quick summary about me**:
-
-- 😊 Pronouns: She/her
-- 🧠 I'm currently mastering TypeScript and Ethers JS 
+- 🧠 I'm currently mastering Vue Js and Node Js
 - 🤝 I’m open to collaborations with like-minded people like you to build amazing projects
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Frontend Engineer, Solidity Developer, or UI Engineer (Intern or Junior level).
