@@ -6,7 +6,7 @@ Welcome, I'm sure you'd stick around.
 I'm a Frontend Engineer, Solidity Developer, and a Technical Writer. I'm passionate about building amazing web and decentralized applications and sharing knowledge. 
 
 **Here's a quick summary about me**:
-- 🧠 I'm currently mastering Vue Js and Node Js
+- 🧠 I'm currently mastering State management technologies.
 - 🤝 I’m open to collaborations with like-minded people like you to build amazing projects
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Frontend Engineer, Solidity Developer, or UI Engineer (Intern or Junior level).
