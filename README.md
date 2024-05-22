@@ -3,12 +3,12 @@ Welcome, I'm sure you'd stick around.
 
 [![Linkedin Badge](https://img.shields.io/badge/-peculiarrichard-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peculiar-richard-b82062b1/)](https://www.linkedin.com/in/peculiar-richard-b82062b1/) [![Twitter Badge](https://img.shields.io/badge/-@peculiarichard-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/peculiarichard)](https://twitter.com/peculiarichard)
 
-I'm a Frontend Engineer, Solidity Developer, and a Technical Writer. I'm passionate about building amazing web and decentralized applications and sharing knowledge. 
+I'm a Frontend Engineer and a Technical Writer. I'm passionate about building amazing web and mobile applications and sharing knowledge. 
 
 **Here's a quick summary about me**:
 - 🧠 I'm currently mastering Mobile App Development with Flutter and React Native.
 - 🤝 I’m open to collaborations with like-minded people like you to build amazing projects
-- 💼 Job interests: Frontend Engineer, Solidity Developer, or UI Engineer.
+- 💼 Job interests: Frontend Engineer, Mobile Frontend Engineer, or UI Engineer.
 - 📫 You can contact me by emailing pecullozie@gmail.com or send a DM on [Twitter](https://twitter.com/peculiarichard)
 
 ---
