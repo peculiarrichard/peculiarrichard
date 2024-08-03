@@ -3,12 +3,12 @@ Welcome, I'm sure you'd stick around.
 
 [![Linkedin Badge](https://img.shields.io/badge/-peculiarrichard-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peculiar-richard-b82062b1/)](https://www.linkedin.com/in/peculiar-richard-b82062b1/) [![Twitter Badge](https://img.shields.io/badge/-@peculiarichard-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/peculiarichard)](https://twitter.com/peculiarichard)
 
-I'm a Frontend Engineer and a Technical Writer. I'm passionate about building amazing web and mobile applications and sharing knowledge. 
+I'm a Fullstack Engineer and I'm passionate about building amazing web and mobile applications and sharing knowledge. 
 
 **Here's a quick summary about me**:
-- 🧠 I'm currently mastering Mobile App Development with Flutter and React Native.
+- 🧠 I'm currently mastering Mobile App Development with Flutter and React Native + PHP Laravel
 - 🤝 I’m open to collaborations with like-minded people like you to build amazing projects
-- 💼 Job interests: Frontend Engineer, Mobile Frontend Engineer, or UI Engineer.
+- 💼 Job interests: Frontend Engineer, Mobile Frontend Engineer, or Fullstack Engineer.
 - 📫 You can contact me by emailing pecullozie@gmail.com or send a DM on [Twitter](https://twitter.com/peculiarichard)
 
 ---
@@ -27,10 +27,10 @@ I'm a Frontend Engineer and a Technical Writer. I'm passionate about building am
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" />
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/reactnative-colored.svg" width="36" height="36" alt="ReactNative" /></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
 </p>
 
 
