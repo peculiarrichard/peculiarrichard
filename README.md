@@ -12,7 +12,7 @@ I'm a Fullstack Engineer and I'm passionate about building amazing web and mobil
 - 📫 You can contact me by emailing pecullozie@gmail.com or send a DM on [Twitter](https://twitter.com/peculiarichard)
 
 ---
-### Skills
+### Tech Stack
 
 
 <p align="left">
