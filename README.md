@@ -6,9 +6,9 @@ Welcome, I'm sure you'd stick around.
 I'm a Fullstack Engineer and I'm passionate about building amazing web and mobile applications and sharing knowledge. 
 
 **Here's a quick summary about me**:
-- 🧠 I'm currently mastering Mobile App Development with Flutter and React Native + PHP Laravel
+- 🧠 I'm currently mastering Mobile App Development with React Native
 - 🤝 I’m open to collaborations with like-minded people like you to build amazing projects
-- 💼 Job interests: Frontend Engineer, Mobile Frontend Engineer, or Fullstack Engineer.
+- 💼 Job interests: Fullstack Engineer, Frontend Engineer, Backend Engineer.
 - 📫 You can contact me by emailing pecullozie@gmail.com or send a DM on [Twitter](https://twitter.com/peculiarichard)
 
 ---
