@@ -6,7 +6,7 @@ Welcome, I'm sure you'd stick around.
 I'm a Fullstack Engineer and I'm passionate about building amazing web and mobile applications and sharing knowledge. 
 
 **Here's a quick summary about me**:
-- 🧠 I'm currently mastering Mobile App Development with React Native
+- 🧠 I'm currently mastering AI engineering
 - 🤝 I’m open to collaborations with like-minded people like you to build amazing projects
 - 💼 Job interests: Fullstack Engineer, Frontend Engineer, Backend Engineer.
 - 📫 You can contact me by emailing pecullozie@gmail.com or send a DM on [Twitter](https://twitter.com/peculiarichard)
